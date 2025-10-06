@@ -73,5 +73,8 @@ This repository is intended for educational use.
 
 *This README was generated to accompany the simulation code and should be included alongside any distribution to make the project's intent and safety requirements explicit.*
 
-<!--START_SECTION:buy-me-a-coffee-->
-<!--END_SECTION:buy-me-a-coffe-->
+## ☕ Support My Work
+
+If you enjoy my projects and want to support my work, you can [buy me a coffee](https://www.buymeacoffee.com/craigcogdey).  
+Your support keeps the code coming — thank you! 🙏
+
