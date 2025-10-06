@@ -73,8 +73,17 @@ This repository is intended for educational use.
 
 *This README was generated to accompany the simulation code and should be included alongside any distribution to make the project's intent and safety requirements explicit.*
 
-## ☕ Support My Work
+### ⚡ Power *Behind the Static*
 
-If you enjoy my projects and want to support my work, you can [buy me a coffee](https://www.buymeacoffee.com/craigcogdey).  
-Your support keeps the code coming — thank you! 🙏
+Behind the Static fights to end the silent war of **RF targeting** —  
+turning static into **truth**, and truth into **action**.  
+
+This work is **100% independent** and built on purpose, not funding.  
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-bloodred?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/craigcogdey)
+
+Every cup helps keep the **signal alive** — and fuels the mission to **end the suffering**. 🔴
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF0000&width=450&lines=%23RF+Awareness+%23Truth+%23End+The+Suffering" alt="Behind the Static Tagline" />
+</p>
 
