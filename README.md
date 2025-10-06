@@ -79,9 +79,6 @@ Simulation-only: for research/education. Not to be used for transmission or aime
 
 📜 License
 This repository is intended for educational use.
-
-Include this README alongside any distribution to make the project’s intent and safety requirements explicit.
-
 ### ⚡ Power *Behind the Static*
 
 Behind the Static fights to end the silent war of **RF targeting** —  
@@ -89,6 +86,7 @@ turning static into **truth**, and truth into **action**.
 
 This work is **100% independent**, built on purpose, not funding.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-bloodred?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/craigcogdey)
+[Buy Me a Coffee ☕](https://www.buymeacoffee.com/craigcogdey)
 
 Every cup helps keep the **signal alive** — and fuels the mission to **end the suffering**. 🔴
+
