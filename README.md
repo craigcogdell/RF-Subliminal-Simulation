@@ -72,3 +72,6 @@ If your interest is educational (demonstrating how the brain perceives externali
 This repository is intended for educational use. 
 
 *This README was generated to accompany the simulation code and should be included alongside any distribution to make the project's intent and safety requirements explicit.*
+
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffe-->
