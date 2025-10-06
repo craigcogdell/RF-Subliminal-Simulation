@@ -1,0 +1,7 @@
+Sample Rate: 200000.0 Hz
+Center Frequency: 2450000000.0 Hz
+IQ Format: complex64
+Duration: 1.0 seconds
+Pulse Rate: 50 Hz
+Pulse Width: 0.001 seconds
+Audio Frequency: 400 Hz
