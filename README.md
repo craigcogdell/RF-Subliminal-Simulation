@@ -1,6 +1,6 @@
 <!-- Banner (replace with your own waveform image URL or keep default placeholder) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/craigcogdell/RF-Subliminal-Simulation/main/waveform_banner.png" 
+  <img src="https://raw.githubusercontent.com/craigcogdell/RF-Subliminal-Simulation/main/behindthestatic.png" 
        alt="Behind the Static Banner" width="100%" />
 </p>
 
