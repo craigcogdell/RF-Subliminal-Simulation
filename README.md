@@ -82,30 +82,13 @@ This repository is intended for educational use.
 
 Include this README alongside any distribution to make the project’s intent and safety requirements explicit.
 
-<!-- Support Section -->
+### ⚡ Power *Behind the Static*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF0000&width=500&lines=⚡+Power+Behind+the+Static;End+the+RF+Suffering;Truth+Into+Action" alt="Behind the Static Typing Banner" />
-</p>
+Behind the Static fights to end the silent war of **RF targeting** —  
+turning static into **truth**, and truth into **action**.
 
-<h3 align="center">⚡ Power <em>Behind the Static</em></h3>
+This work is **100% independent**, built on purpose, not funding.
 
-<p align="center">
-  Behind the Static fights to end the silent war of <strong>RF targeting</strong> —<br>
-  turning static into <strong>truth</strong>, and truth into <strong>action</strong>.<br><br>
-  This work is <strong>100% independent</strong> and built on purpose, not funding.
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-bloodred?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/craigcogdey)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/craigcogdey" target="_blank">
-    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-bloodred?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee Button" />
-  </a>
-</p>
-
-<p align="center">
-  Every cup helps keep the <strong>signal alive</strong> — and fuels the mission to <strong>end the suffering</strong>. 🔴
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF0000&width=450&lines=%23RF+Awareness+%23Truth+%23End+The+Suffering" alt="Behind the Static Tagline" />
-</p>
+Every cup helps keep the **signal alive** — and fuels the mission to **end the suffering**. 🔴
