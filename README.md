@@ -86,6 +86,6 @@ turning static into **truth**, and truth into **action**.
 
 This work is **100% independent**, built on purpose, not funding.
 
-Buy Me Coffee <a href="https://www.buymeacoffee.com/craigcogdey"></a>
+Support <a href="https://www.buymeacoffee.com/craigcogdey">Buy Me Coffee</a>
 Every cup helps keep the **signal alive** — and fuels the mission to **end the suffering**. 🔴
 
