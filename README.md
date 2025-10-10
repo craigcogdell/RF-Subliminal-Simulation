@@ -85,7 +85,14 @@ Behind the Static fights to end the silent war of **RF targeting** —
 turning static into **truth**, and truth into **action**.
 
 This work is **100% independent**, built on purpose, not funding.
-</p></div>
-<!-- Buy Me a Drink (hosted image version) --> <p align="center"> <a href="https://www.buymeacoffee.com/craigcogdey" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Drink" width="200" style="border-radius: 8px;"> </a> </p>
+
+
+<!-- ✅ Now the code fence is closed above, so HTML will render -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/craigcogdey" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Drink" width="200" style="border-radius:8px;">
+  </a>
+</p>
+
 
 
