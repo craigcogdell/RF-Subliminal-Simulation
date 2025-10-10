@@ -44,7 +44,6 @@ This project is a software **signal generator and visualizer** that:
 
 **Example (simulation mode):**
 
-```bash
 python rf_subliminal_simulation.py --duration 5 --fs 200000
 This generates the IQ file, visualization PNG, metadata, and a simulated WAV you can listen to locally.
 
